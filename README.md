@@ -8,3 +8,7 @@ i am currently lreaing hw to use git<br>
 I DAILY UPDATE IT 
 day 6<br>
 this is the update of day 7
+<br>
+this is day 8 of my github journey
+<br>
+i am just contunuing this
