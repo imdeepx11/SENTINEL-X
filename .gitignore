@@ -1,0 +1,15 @@
+# Arduino IDE temporary build artifacts
+build/
+.arduino/
+*.elf
+*.hex
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code & IDE configs
+.vscode/
+.idea/
+*.swp
