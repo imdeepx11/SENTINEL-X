@@ -146,7 +146,7 @@ SENTINEL-X/
 ### Installation & Flashing
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/SENTINEL-X.git
+   git clone https://github.com/imdeepx11/SENTINEL-X.git
    ```
 2. Open `code/rover_control/rover.ino` in Arduino IDE, select **Arduino Uno**, choose the correct COM port, and upload.
 3. Open `code/targeting_system/targeting.ino` in Arduino IDE and upload to the targeting controller board.
@@ -172,9 +172,6 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more details.
 
 ---
 
-## 👨‍💻 Authors & Acknowledgments
+## 👨‍💻 Author & Lead Developer
 
-- **Deepak Gupta** - Co-Developer & Project Lead
-- **Devashees Rana** - Co-Developer & Hardware Engineering
-
-*Developed as an educational research demonstration in autonomous embedded systems and robotics.*
+- **Deepak Gupta** ([@imdeepx11](https://github.com/imdeepx11)) - Project Creator & Developer
