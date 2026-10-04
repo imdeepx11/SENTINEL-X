@@ -109,7 +109,7 @@ The pitch servo (`aimServo`) smoothly rotates to $\theta_{\text{actuator}}$ to e
 | **SG90 / MG996R Servos** | 3 | Radar Sweep (D9), Pitch Aim (D5), Trigger Release (D6) |
 | **BO Geared DC Motors** | 4 | Chassis Mobility |
 | **Piezo Buzzer / Status LED** | 1 | Audio-Visual Warning System |
-| **12V Li-ion Battery Pack** | 1 | Power Supply |
+| **12V Li-ion Battery Pack** | 1 | Power Supply | dc power
 
 ---
 
