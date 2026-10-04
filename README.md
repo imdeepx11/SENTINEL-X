@@ -162,7 +162,7 @@ SENTINEL-X/
 | **`S`** | Halt All Motors |
 | **`O`** | Enable Radar Scanning Mode |
 | **`F`** | Abort Radar Scanning Mode |
-| **`X`** | Manual Actuation Override Trigger |motor
+| **`X`** | Manual Actuation Override Trigger |
 
 ---
 
