@@ -37,7 +37,7 @@
 
 ---
 
-## ✨ Key Features are
+## ✨ Key Features
 
 - **📶 Dual Control Architecture**: Seamless switching between Bluetooth wireless manual driving and semi-autonomous radar sweeping.
 - **📡 180° Radar Sweeping System**: Pan-servo mounted ultrasonic sensor continuously scans for obstacles/targets within a defined sector.
